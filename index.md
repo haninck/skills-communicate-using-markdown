@@ -9,6 +9,8 @@
 ``` javascript
 var myVar = "Hello,Github!";
 ```
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 I have added a few changes  following the instructions by adding a few headers and also uplaoding an image
